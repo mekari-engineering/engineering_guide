@@ -1,4 +1,4 @@
-# Sleekr's developer guide 101
+# Sleekr's developer guide 101 [WORK IN PROGRESS!!]
 
 This document will help you to understand with some basic principles and practices that we do in Sleekr.
 This document is still work in progress.
