@@ -10,6 +10,11 @@ This step by step guide will help you to walkthrough on how we conduct engineeri
 To work effectively with your peers, you need to first let us know you better. Please answers simple questions in `working_with_me_manual.md` honestly. We will respect your values and we believe you will respect others too.
 Don't forget to review your peers `working_with_me_manual` first, it's a good start to know how you can work with each other best.
 
+Some references that might help :
+
+* https://medium.com/@PeteVowles/working-with-me-a-user-manual-b07f1b47f8f9
+* http://www.game-changer.net/2017/02/07/a-user-manual-to-working-with-me/
+
 ## Before you start working on a task/story
 
 Before you start to code, please review on how we defined "done", you __MUST__ read `definition_of_done.md` guide to understand it. It's very __important__ for everyone to understand what is done in Sleekr.
