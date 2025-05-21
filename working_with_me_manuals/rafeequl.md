@@ -1,4 +1,4 @@
-Manual ini dibuat dengan tujuan supaya siapa pun yang bekerja sama dengan saya dapat mengerti dan menghindari salah paham. Saya menulis ini karena terinspirasi dari excersise yang pernah di lakukan pada saat process merger Sleekr dan Jurnal. Sedangkan referensi yang dipakai adalah sbb : 
+Manual ini dibuat dengan tujuan supaya siapa pun yang bekerja sama dengan saya dapat mengerti dan menghindari salah paham. Saya menulis ini karena terinspirasi dari excersise yang pernah di lakukan pada saat process merger Sleekr dan [Jurnal](https://jurnal.id). Sedangkan referensi yang dipakai adalah sbb : 
 
 * https://medium.com/@PeteVowles/working-with-me-a-user-manual-b07f1b47f8f9
 * http://www.game-changer.net/2017/02/07/a-user-manual-to-working-with-me/
